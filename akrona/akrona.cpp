@@ -5,14 +5,14 @@
 using namespace std;
 
 void task96();
-void task97();
-int task97_count = 0;
+void task106();
+int task106_count = 0;
 
 int main() {
     setlocale(0, "");
     srand(time(0));
     //task96();
-    task97();
+    task106();
 }
 
 void task96() {
@@ -41,22 +41,22 @@ void task96() {
 }
 
 
-void task97_func(int n, int from, int to, int free)
+void task106_func(int n, int from, int to, int free)
 {
     if (n > 0)
     {
-        task97_func(n - 1, from, free, to);
-        task97_count++;
+        task106_func(n - 1, from, free, to);
+        task106_count++;
         cout << from << " => " << to <<"\n";
-        task97_func(n - 1, free, to, from);
+        task106_func(n - 1, free, to, from);
     }
 }
 
-void task97() {
+void task106() {
     cout << "\nвведите n\n";
     int n;
     cin >> n;
     cout << "n=" << n<<endl;
-    task97_func(n, 1, 3, 2);
-    cout << "общее число перемещений " << task97_count<<endl;
+    task106_func(n, 1, 3, 2);
+    cout << "общее число перемещений " << task106_count<<endl;
 }
