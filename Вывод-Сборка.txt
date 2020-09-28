@@ -1,0 +1,6 @@
+﻿1>------ Сборка начата: проект: akrona, Конфигурация: Debug Win32 ------
+1>akrona.cpp
+1>C:\Users\fedor\source\repos\akrona\akrona\akrona.cpp(22,16): error C2371: r: переопределение; различные базовые типы
+1>C:\Users\fedor\source\repos\akrona\akrona\akrona.cpp(20): message : см. объявление "r"
+1>Сборка проекта "akrona.vcxproj" завершена с ошибкой.
+========== Сборка: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========
