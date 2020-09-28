@@ -1,0 +1,17 @@
+﻿"akrona.exe" (Win32). Загружено "C:\Users\fedor\source\repos\akrona\Debug\akrona.exe". Символы загружены.
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x9a8 завершился с кодом 0 (0x0).
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"akrona.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+Поток 0xb48 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x2d78 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x2fd8 завершился с кодом -1073741749 (0xc000004b).
+Программа "[12148] akrona.exe" завершилась с кодом -1073741510 (0xc000013a).
